@@ -10,6 +10,7 @@ django = "*"
 flake8 = "*"
 pytest-django = "*"
 pytest-coverage = "*"
+codecov = "*"
 
 [requires]
 python_version = "3.11"
