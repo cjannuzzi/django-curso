@@ -1,3 +1,4 @@
 # django-curso
 
-https://pythonprodjango-caio.herokuapp.com
+Aplicação disponivel em https://pythonprodjango-caio.herokuapp.com
+
